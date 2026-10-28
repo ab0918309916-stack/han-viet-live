@@ -1,0 +1,542 @@
+{
+  "version": 1,
+  "languagePair": "ko-vi",
+  "terms": [
+    {
+      "ko": "빅데이터",
+      "vi": "dữ liệu lớn"
+    },
+    {
+      "ko": "빅 데이터",
+      "vi": "dữ liệu lớn"
+    },
+    {
+      "ko": "데이터 레이크",
+      "vi": "data lake"
+    },
+    {
+      "ko": "데이터레이크",
+      "vi": "data lake"
+    },
+    {
+      "ko": "데이터 웨어하우스",
+      "vi": "kho dữ liệu (data warehouse)"
+    },
+    {
+      "ko": "데이터 마트",
+      "vi": "kho dữ liệu chủ đề"
+    },
+    {
+      "ko": "데이터 파이프라인",
+      "vi": "đường ống dữ liệu (data pipeline)"
+    },
+    {
+      "ko": "데이터 거버넌스",
+      "vi": "quản trị dữ liệu"
+    },
+    {
+      "ko": "데이터 카탈로그",
+      "vi": "danh mục dữ liệu"
+    },
+    {
+      "ko": "메타데이터",
+      "vi": "siêu dữ liệu"
+    },
+    {
+      "ko": "정형 데이터",
+      "vi": "dữ liệu có cấu trúc"
+    },
+    {
+      "ko": "반정형 데이터",
+      "vi": "dữ liệu bán cấu trúc"
+    },
+    {
+      "ko": "비정형 데이터",
+      "vi": "dữ liệu phi cấu trúc"
+    },
+    {
+      "ko": "배치 처리",
+      "vi": "xử lý theo lô"
+    },
+    {
+      "ko": "스트리밍 처리",
+      "vi": "xử lý luồng dữ liệu"
+    },
+    {
+      "ko": "실시간 처리",
+      "vi": "xử lý thời gian thực"
+    },
+    {
+      "ko": "분산 처리",
+      "vi": "xử lý phân tán"
+    },
+    {
+      "ko": "분산 컴퓨팅",
+      "vi": "điện toán phân tán"
+    },
+    {
+      "ko": "데이터 수집",
+      "vi": "thu thập dữ liệu"
+    },
+    {
+      "ko": "데이터 적재",
+      "vi": "nạp dữ liệu"
+    },
+    {
+      "ko": "데이터 정제",
+      "vi": "làm sạch dữ liệu"
+    },
+    {
+      "ko": "데이터 전처리",
+      "vi": "tiền xử lý dữ liệu"
+    },
+    {
+      "ko": "데이터 품질",
+      "vi": "chất lượng dữ liệu"
+    },
+    {
+      "ko": "데이터 모델",
+      "vi": "mô hình dữ liệu"
+    },
+    {
+      "ko": "데이터베이스",
+      "vi": "cơ sở dữ liệu"
+    },
+    {
+      "ko": "스키마",
+      "vi": "lược đồ dữ liệu"
+    },
+    {
+      "ko": "쿼리",
+      "vi": "truy vấn"
+    },
+    {
+      "ko": "파티션",
+      "vi": "phân vùng dữ liệu"
+    },
+    {
+      "ko": "인덱스",
+      "vi": "chỉ mục"
+    },
+    {
+      "ko": "ETL",
+      "vi": "ETL (trích xuất, chuyển đổi, nạp dữ liệu)"
+    },
+    {
+      "ko": "ELT",
+      "vi": "ELT (trích xuất, nạp, chuyển đổi dữ liệu)"
+    },
+    {
+      "ko": "데이터 마이그레이션",
+      "vi": "di trú dữ liệu"
+    },
+    {
+      "ko": "결측치",
+      "vi": "giá trị thiếu"
+    },
+    {
+      "ko": "이상치",
+      "vi": "giá trị ngoại lai"
+    },
+    {
+      "ko": "머신러닝",
+      "vi": "học máy"
+    },
+    {
+      "ko": "기계 학습",
+      "vi": "học máy"
+    },
+    {
+      "ko": "딥러닝",
+      "vi": "học sâu"
+    },
+    {
+      "ko": "학습 데이터",
+      "vi": "dữ liệu huấn luyện"
+    },
+    {
+      "ko": "추론",
+      "vi": "suy luận"
+    },
+    {
+      "ko": "피처 엔지니어링",
+      "vi": "kỹ thuật tạo đặc trưng"
+    },
+    {
+      "ko": "예측 분석",
+      "vi": "phân tích dự đoán"
+    },
+    {
+      "ko": "데이터 시각화",
+      "vi": "trực quan hóa dữ liệu"
+    },
+    {
+      "ko": "대시보드",
+      "vi": "bảng điều khiển"
+    },
+    {
+      "ko": "데이터 보안",
+      "vi": "bảo mật dữ liệu"
+    },
+    {
+      "ko": "데이터 익명화",
+      "vi": "ẩn danh hóa dữ liệu"
+    },
+    {
+      "ko": "개인정보",
+      "vi": "thông tin cá nhân"
+    },
+    {
+      "ko": "소스 코드",
+      "vi": "mã nguồn"
+    },
+    {
+      "ko": "API 게이트웨이",
+      "vi": "API gateway"
+    },
+    {
+      "ko": "API 호출",
+      "vi": "lời gọi API"
+    },
+    {
+      "ko": "REST API",
+      "vi": "REST API"
+    },
+    {
+      "ko": "API",
+      "vi": "API (giao diện lập trình ứng dụng)"
+    },
+    {
+      "ko": "SDK",
+      "vi": "SDK (bộ công cụ phát triển phần mềm)"
+    },
+    {
+      "ko": "프레임워크",
+      "vi": "framework (khung phần mềm)"
+    },
+    {
+      "ko": "라이브러리",
+      "vi": "thư viện phần mềm"
+    },
+    {
+      "ko": "저장소",
+      "vi": "kho mã nguồn"
+    },
+    {
+      "ko": "브랜치",
+      "vi": "nhánh mã nguồn"
+    },
+    {
+      "ko": "병합",
+      "vi": "hợp nhất mã"
+    },
+    {
+      "ko": "커밋",
+      "vi": "commit (bản ghi thay đổi)"
+    },
+    {
+      "ko": "코드 리뷰",
+      "vi": "duyệt mã nguồn"
+    },
+    {
+      "ko": "빌드",
+      "vi": "bản dựng phần mềm"
+    },
+    {
+      "ko": "배포",
+      "vi": "triển khai"
+    },
+    {
+      "ko": "버전 관리",
+      "vi": "quản lý phiên bản"
+    },
+    {
+      "ko": "테스트 자동화",
+      "vi": "tự động hóa kiểm thử"
+    },
+    {
+      "ko": "CI/CD",
+      "vi": "CI/CD (tích hợp và triển khai liên tục)"
+    },
+    {
+      "ko": "컨테이너",
+      "vi": "container (môi trường đóng gói ứng dụng)"
+    },
+    {
+      "ko": "마이크로서비스",
+      "vi": "vi dịch vụ (microservices)"
+    },
+    {
+      "ko": "서버리스",
+      "vi": "serverless (điện toán không máy chủ)"
+    },
+    {
+      "ko": "클라우드 컴퓨팅",
+      "vi": "điện toán đám mây"
+    },
+    {
+      "ko": "가상 머신",
+      "vi": "máy ảo"
+    },
+    {
+      "ko": "오케스트레이션",
+      "vi": "điều phối hệ thống"
+    },
+    {
+      "ko": "로그",
+      "vi": "nhật ký hệ thống"
+    },
+    {
+      "ko": "모니터링",
+      "vi": "giám sát hệ thống"
+    },
+    {
+      "ko": "지연 시간",
+      "vi": "độ trễ"
+    },
+    {
+      "ko": "처리량",
+      "vi": "thông lượng xử lý"
+    },
+    {
+      "ko": "가용성",
+      "vi": "tính sẵn sàng"
+    },
+    {
+      "ko": "확장성",
+      "vi": "khả năng mở rộng"
+    },
+    {
+      "ko": "인증",
+      "vi": "xác thực"
+    },
+    {
+      "ko": "접근 제어",
+      "vi": "kiểm soát truy cập"
+    },
+    {
+      "ko": "취약점",
+      "vi": "lỗ hổng bảo mật"
+    },
+    {
+      "ko": "암호화",
+      "vi": "mã hóa"
+    },
+    {
+      "ko": "네트워크",
+      "vi": "mạng máy tính"
+    },
+    {
+      "ko": "대역폭",
+      "vi": "băng thông"
+    },
+    {
+      "ko": "데이터센터",
+      "vi": "trung tâm dữ liệu"
+    },
+    {
+      "ko": "반도체",
+      "vi": "chất bán dẫn"
+    },
+    {
+      "ko": "웨이퍼",
+      "vi": "wafer (phiến bán dẫn)"
+    },
+    {
+      "ko": "실리콘",
+      "vi": "silicon"
+    },
+    {
+      "ko": "집적 회로",
+      "vi": "mạch tích hợp"
+    },
+    {
+      "ko": "다이",
+      "vi": "die (chip bán dẫn chưa đóng gói)"
+    },
+    {
+      "ko": "수율",
+      "vi": "tỷ lệ thành phẩm đạt chuẩn"
+    },
+    {
+      "ko": "불량률",
+      "vi": "tỷ lệ sản phẩm lỗi"
+    },
+    {
+      "ko": "결함",
+      "vi": "khuyết tật vật liệu"
+    },
+    {
+      "ko": "식각 공정",
+      "vi": "quy trình khắc"
+    },
+    {
+      "ko": "식각",
+      "vi": "khắc bán dẫn"
+    },
+    {
+      "ko": "증착",
+      "vi": "lắng đọng màng mỏng"
+    },
+    {
+      "ko": "세정 공정",
+      "vi": "quy trình làm sạch wafer"
+    },
+    {
+      "ko": "포토리소그래피",
+      "vi": "quang khắc"
+    },
+    {
+      "ko": "노광",
+      "vi": "phơi sáng trong quang khắc"
+    },
+    {
+      "ko": "포토레지스트",
+      "vi": "chất cản quang"
+    },
+    {
+      "ko": "이온 주입",
+      "vi": "cấy ion"
+    },
+    {
+      "ko": "도핑",
+      "vi": "pha tạp bán dẫn"
+    },
+    {
+      "ko": "산화막",
+      "vi": "lớp oxide"
+    },
+    {
+      "ko": "박막",
+      "vi": "màng mỏng"
+    },
+    {
+      "ko": "화학 기계적 연마",
+      "vi": "đánh bóng hóa cơ (CMP)"
+    },
+    {
+      "ko": "CMP",
+      "vi": "đánh bóng hóa cơ (CMP)"
+    },
+    {
+      "ko": "패키징",
+      "vi": "đóng gói bán dẫn"
+    },
+    {
+      "ko": "와이어 본딩",
+      "vi": "liên kết dây bán dẫn"
+    },
+    {
+      "ko": "플립칩",
+      "vi": "đóng gói flip-chip"
+    },
+    {
+      "ko": "기판",
+      "vi": "đế bán dẫn"
+    },
+    {
+      "ko": "인쇄 회로 기판",
+      "vi": "bo mạch in (PCB)"
+    },
+    {
+      "ko": "트랜지스터",
+      "vi": "transistor"
+    },
+    {
+      "ko": "메모리 반도체",
+      "vi": "bán dẫn bộ nhớ"
+    },
+    {
+      "ko": "시스템 반도체",
+      "vi": "bán dẫn hệ thống"
+    },
+    {
+      "ko": "DRAM",
+      "vi": "DRAM"
+    },
+    {
+      "ko": "NAND 플래시",
+      "vi": "bộ nhớ flash NAND"
+    },
+    {
+      "ko": "고대역폭 메모리",
+      "vi": "bộ nhớ băng thông cao (HBM)"
+    },
+    {
+      "ko": "HBM",
+      "vi": "bộ nhớ băng thông cao (HBM)"
+    },
+    {
+      "ko": "실리콘 관통 전극",
+      "vi": "điện cực xuyên silicon (TSV)"
+    },
+    {
+      "ko": "TSV",
+      "vi": "điện cực xuyên silicon (TSV)"
+    },
+    {
+      "ko": "극자외선",
+      "vi": "quang khắc cực tím bước sóng ngắn (EUV)"
+    },
+    {
+      "ko": "EUV",
+      "vi": "quang khắc cực tím bước sóng ngắn (EUV)"
+    },
+    {
+      "ko": "공정 조건",
+      "vi": "điều kiện quy trình sản xuất"
+    },
+    {
+      "ko": "클린룸",
+      "vi": "phòng sạch"
+    },
+    {
+      "ko": "진공",
+      "vi": "chân không"
+    },
+    {
+      "ko": "웨이퍼 맵",
+      "vi": "bản đồ wafer"
+    },
+    {
+      "ko": "검사 장비",
+      "vi": "thiết bị kiểm tra"
+    },
+    {
+      "ko": "신뢰성",
+      "vi": "độ tin cậy"
+    },
+    {
+      "ko": "전압",
+      "vi": "điện áp"
+    },
+    {
+      "ko": "전류",
+      "vi": "dòng điện"
+    },
+    {
+      "ko": "저항",
+      "vi": "điện trở"
+    },
+    {
+      "ko": "센서",
+      "vi": "cảm biến"
+    },
+    {
+      "ko": "펌웨어",
+      "vi": "firmware (phần sụn)"
+    },
+    {
+      "ko": "회로",
+      "vi": "mạch điện"
+    },
+    {
+      "ko": "전자 부품",
+      "vi": "linh kiện điện tử"
+    }
+  ],
+  "sources": [
+    "https://terms.tta.or.kr/main.do",
+    "https://semiconductor.samsung.com/kr/support/tools-resources/dictionary/just-the-essentials-semiconductor-terminologyzip/"
+  ]
+}
